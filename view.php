@@ -67,4 +67,5 @@ btn2.style.display = 'block';
 
 <a href="index.php" style="color: white;" ><button class="btn btn-primary btn-block">Main Menu</button></a>
 
-<?php } ?>
+<?php } 
+?>
